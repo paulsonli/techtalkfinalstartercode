@@ -1,0 +1,55 @@
+#head {
+    margin: auto 0;
+    background-color: black;
+    text-align: center;
+    opacity: .8;
+    width: 100%;
+    position: fixed;
+}
+
+#name {
+    text-align: center;
+    color: white;
+}
+
+#toMenu {
+    text-decoration: none;
+    color: white;
+    padding: 2%;
+    font-size: 150%
+}
+
+#toLocation {
+    text-decoration: none;
+    color: white;
+    padding: 2%;
+    font-size: 150%;
+}
+
+#toReserve {
+    text-decoration: none;
+    color: white;
+    padding: 2%;
+    font-size: 150%;
+}
+
+#img {
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    top: 15.2%;
+    background-repeat: no-repeat;
+    left:0%;
+}
+
+#img2 {
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    top: 15.2%;
+    background-repeat: no-repeat;
+    right: 0%;
+}
+
+/* Reservation Page */
+d

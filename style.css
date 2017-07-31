@@ -13,13 +13,6 @@
     color: white;
 }
 
-#toMenu {
-    text-decoration: none;
-    color: white;
-    padding: 2%;
-    font-size: 150%
-}
-
 #toLocation {
     text-decoration: none;
     color: white;
@@ -54,6 +47,16 @@
     right: 0%;
     padding: 0;
     z-index: -1;
+}
+
+#menuHead {
+    position: absolute;
+    top: 556px;
+    color: red;
+}
+
+#menuDiv {
+    text-align: center;
 }
 
 /* Reservation Page */

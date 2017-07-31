@@ -9,7 +9,7 @@ $("#Submit").click(function(){
     if (submitTimeInfo != "" && submitDayInfo != "" && sumbitEmailInfo!= "") {
         alert("Thank You For Reserving");
     }   else {
-        alert("Please Add Info");
+            alert("Please Add Info");
     }
     
     

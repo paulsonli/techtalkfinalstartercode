@@ -8,6 +8,8 @@ $("#Submit").click(function(){
     var sumbitEmailInfo = $("#email").val();
     if (submitTimeInfo != "" && submitDayInfo != "" && sumbitEmailInfo!= "") {
         alert("Thank You For Reserving");
+    }   else {
+        alert("Please Add Info");
     }
     
     

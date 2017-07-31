@@ -52,3 +52,18 @@
 }
 
 /* Reservation Page */
+#reserveHead{
+    text-align: center;
+}
+
+.reserveInput{
+    text-align: center;
+}
+
+.reserveDiv{
+    text-align: center;
+}
+
+#buttonDiv{
+    text-align: center;
+}
